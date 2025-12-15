@@ -30,7 +30,7 @@ A comprehensive Streamlit web application for visualizing and predicting air qua
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/digambars-git-hub/Air-Pollution-Project.git
 cd Air-Pollution-Project
 ```
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Make sure you have the `cleaned_data.csv` file in the project directory.
+1. Make sure you have the `cleaned_data.csv` file in the project directory. (It is required so that model has something to train on. If you don't have any, use the one that is provided.)
 
 2. Run the Streamlit application:
 ```bash
@@ -101,6 +101,7 @@ You can use the live version without any local installation!
 ## License
 
 This project is open source and available for educational and research purposes.
+This project belongs to https://github.com/digambars-git-hub/
 
 ## Contributing
 
